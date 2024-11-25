@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesanabbas&" alt="lesanabbas" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lesanabbas?theme=wtf&font=Alice&ext=heatmap)
+# ![Leetcode Stats](https://leetcard.jacoblin.cool/lesanabbas?theme=wtf&font=Alice&ext=heatmap)
