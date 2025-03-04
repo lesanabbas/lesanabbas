@@ -13,6 +13,33 @@
 
 - 📫 How to reach me **lesanabbas@gmail.com**
 
+
+### About Me
+
+```javascript
+const lesanabbas = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Django", "SQL", "PostgreSQL", "JavaScript", "Java", "C"],
+    askMeAbout: ["Python", "Django", "SQL", "PostgreSQL", "Kubernetes", "Docker", "Web Development"],
+    technologies: {
+       frontEnd: {
+            js: ["React", "NextJS],
+            css: ["Bootstrap", "TailwindCSS"]
+        },
+        backEnd: {
+            python: ["Django", "Flask"],
+            js: ["Node", "Express"],
+        },
+        devOps: ["Docker", "Kubernetes", "AWS", "Heroku"],
+        databases: ["PostgreSQL", "MySQL", "SQLite"],
+        misc: ["Git", "GraphQL", "Firebase", "Nginx"]
+    },
+    challenge: "I am currently learning Kubernetes and improving my DevOps skills.",
+    funFact: "I enjoy solving algorithmic challenges and contributing to open-source projects!"
+};
+```
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lesan_abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lesan_abbas" height="30" width="40" /></a>
