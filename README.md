@@ -23,7 +23,7 @@ const lesanabbas = {
     askMeAbout: ["Python", "Django", "SQL", "PostgreSQL", "Kubernetes", "Docker", "Web Development"],
     technologies: {
        frontEnd: {
-            js: ["React", "NextJS],
+            js: ["React", "NextJS"],
             css: ["Bootstrap", "TailwindCSS"]
         },
         backEnd: {
